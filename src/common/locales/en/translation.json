@@ -27,6 +27,7 @@
 	"tutorial": "Tutorial",
 	"settings": "Settings",
 	"connect": "Connect",
+	"connect-test-device": "Connect Test Device",
 	"select": "Select",
 	"confirm": "Confirm",
 	"scan-the-qr-code": "Scan the QR code",
